@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yann Deret Le Berre
+- 👋 Hi, I’m Yann!
 - 👀 I’m interested in front & back, Ruby on Rail, Javascript,...
 - 📷 https://leramage.fr
 - 🤓 https://linkedin.com/in/yannderetleberre/
