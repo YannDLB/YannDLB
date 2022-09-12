@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yann Deret Le Berre
 - 👀 I’m interested in front & back, Ruby on Rail, Javascript,...
-- 📫 How to reach me : 
-- My photo/video website : leramage.fr
-- Profile : linkedin.com/in/yannderetleberre/
+- 📷 https://leramage.fr
+- 🤓 linkedin.com/in/yannderetleberre/
 
 <!---
 YannDLB/YannDLB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
