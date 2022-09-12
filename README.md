@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YannDLB
+- 👋 Hi, I’m @Yann Deret Le Berre
 - 👀 I’m interested in front & back, Ruby on Rail, Javascript,...
 - 📫 How to reach me : 
 My photo/video website : leramage.fr
