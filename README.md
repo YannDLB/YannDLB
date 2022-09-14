@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yann!
 - 
 - Fullstack dev, I work with Ruby on Rail, Javascript, HTML, CSS, SQL... For now! I love to learn new things so the sequel is to come!
--
+- My portfolio : https://troopl.com/yannderetleberre
 - I also do pictures and videos : https://leramage.fr
 - My professional profile : https://linkedin.com/in/yannderetleberre/
 
