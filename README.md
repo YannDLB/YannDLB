@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yann!
-- 
+
 - Fullstack dev / test engeneer, I work with Python, Ruby on Rail, Javascript, HTML, CSS, SQL... For now! I love to learn new things so the sequel is to come!
 - My portfolio : https://troopl.com/yannderetleberre
 - I also do photos and videos : https://leramage.fr
